@@ -29,9 +29,6 @@ def Merge(left, right):
     return combined
 
 
-
-
-
 my_list = [38, 27, 43, 3, 9, 82, 10]
 sorted_list = MergeSort(my_list)
 print("Sorted list:", sorted_list)
