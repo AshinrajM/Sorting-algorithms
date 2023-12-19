@@ -14,3 +14,5 @@ print(SelectionSort([47, 56, 34, 23, 86, 43, 65]))
 
 # Here what happends is that using the variable understands at which index position largest value(as per condition)
 # lies . Then value of the variable amd position of elements will be changed
+
+#Complexity - O(n^2)
